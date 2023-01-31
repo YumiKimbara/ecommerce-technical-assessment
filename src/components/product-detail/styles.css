@@ -1,0 +1,26 @@
+.productDetail {
+  padding: 0px 40px;
+}
+
+.cart {
+  padding: 0px 40px;
+}
+
+.productImage {
+  max-width: 500px;
+  width: 100%;
+}
+
+.cartWrapper {
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.button {
+  margin: 4px 0px;
+}
+
+.divider {
+  margin: 16px;
+}

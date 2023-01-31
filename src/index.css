@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900&display=swap");
+
+html,
+body {
+  font-family: "Zen Kaku Gothic New", sans-serif !important;
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+}
+p {
+  margin: 4px;
+}

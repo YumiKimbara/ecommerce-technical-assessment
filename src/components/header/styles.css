@@ -1,0 +1,13 @@
+.headerWrapper {
+  background-color: #232f3e;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
+.title {
+  color: #ffffff;
+  font-weight: bold;
+}
